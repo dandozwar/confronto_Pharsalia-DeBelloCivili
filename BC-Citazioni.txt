@@ -1,0 +1,1196 @@
+1-01-04_Roma_2
+1-02-01_città (Roma)_2
+1-02-02_suolo italiano_189
+1-02-03_province (Spagna)_213
+1-02-03_Roma_2
+1-02-05_Roma_2
+1-03-03_Roma_2
+1-04-02_Roma_2
+1-04-05_Asia_205
+1-04-05_Siria_211
+1-05-03_Roma_2
+1-05-03_città (Roma)_2
+1-05-05_Roma_2
+1-05-05_Ravenna_115
+1-06-01_Roma_2
+1-06-03_Mauretania_243
+1-06-03_popolo romano_2
+1-06-05_Siria_211
+1-06-05_Gallia_192
+1-06-06_Roma_2
+1-06-07_città (Roma)_2
+1-06-07_Roma_2
+1-06-07_città (Roma)_2
+1-06-07_Campidoglio_501
+1-06-07_Italia_189
+1-07-02_Roma_2
+1-07-05_Roma_2
+1-07-05_popolo romano_2
+1-07-05_popolo (romano)_2
+1-07-05_città (Roma)_2
+1-07-06_popolo (romano)_2
+1-07-07_Gallia_192
+1-07-07_Germania_327
+1-08-01_Rimini_10
+1-08-01_città (Rimini)_10
+1-08-02_Rimini_10
+1-08-03_Roma_2
+1-09-02_Urbe (Roma)_2
+1-09-02_popolo romano_2
+1-09-02_Roma_2
+1-09-04_italiano_189
+1-09-04_città (Roma)_2
+1-09-04_Parti_244
+1-09-04_romani_10
+1-09-05_province (Spagna)_213
+1-09-05_popolo romano_2
+1-10-01_Capua_116
+1-10-03_Rimini_10
+1-10-03_Gallia_192
+1-10-03_Spagna_213
+1-11-01_Rimini_10
+1-11-02_provincia (Spagna)_213
+1-11-04_Rimini_10
+1-11-04_Arezzo_117
+1-11-04_Rimini_10
+1-11-04_Pesaro_118
+1-11-04_Fano_119
+1-11-04_Ancona_24
+1-12-01_Gubbio_120
+1-12-01_città (Gubbio)_120
+1-12-01_Pesaro_118
+1-12-01_Rimini_10
+1-12-02_Gubbio_120
+1-12-03_Gubbio_120
+1-12-03_Osimo_27
+1-12-03_il Piceno_224
+1-13-01_Osimo_27
+1-13-01_Osimo_27
+1-13-02_Osimo_27
+1-13-05_Osimo_27
+1-14-01_Osimo_27
+1-14-01_Roma_2
+1-14-01_Urbe (Roma)_2
+1-14-01_Roma_2
+1-14-01_città (Roma)_2
+1-14-03_Puglia_202
+1-14-04_Roma_2
+1-14-04_Capua_116
+1-14-04_città (Capua)_116
+1-14-04_città (Capua)_116
+1-14-05_campano_216
+1-15-01_Osimo_27
+1-15-01_il Piceno_224
+1-15-02_Cingoli_121
+1-15-02_città (Cingoli)_121
+1-15-03_Ascoli Piceno_122
+1-15-03_cittadina (Ascoli Piceno)_122
+1-15-04_(il) Piceno_224
+1-15-05_Camerino_123
+1-15-05_città (Camerino)_123
+1-15-06_Corfinio_30
+1-15-07_Alba_9
+1-15-07_Marsi_275
+1-15-07_Peligni_276
+1-16-01_Fermo_124
+1-16-01_Corfinio_30
+1-16-02_città (Corfinio)_30
+1-16-03_città (Corfinio)_30
+1-16-03_fiume (Sagittario)_417
+1-17-01_Puglia_202
+1-17-02_romani_10
+1-17-03_Corfinio_30
+1-17-03_città (Corfinio)_30
+1-18-01_Sulmona_125
+1-18-01_città (Sulmona)_125
+1-18-01_Corfinio_30
+1-18-01_città (Sulmona)_125
+1-18-02_Sulmona_125
+1-18-02_città (Sulmona)_125
+1-18-05_Gallia_192
+1-18-05_NOrico_42_225
+1-18-05_città (Corfinio)_30
+1-18-06_città (Corfinio)_30
+1-19-01_città (Corfinio)_30
+1-19-04_Corfinio_30
+1-19-05_città (Corfinio)_30
+1-20-01_Corfinio_30
+1-20-03_Marsi_275
+1-20-03_Corfinio_30
+1-20-05_città (Corfinio)_30
+1-21-01_Corfinio_30
+1-21-02_città (Corfinio)_30
+1-21-02_cittadini (Corfinio)_30
+1-21-02_città (Corfinio)_30
+1-21-06_Corfinio_30
+1-22-02_città (Corfinio)_30
+1-22-04_Spagna_213
+1-22-05_provincia (Gallia)_192
+1-22-05_Roma_2
+1-22-05_popolo romano_2
+1-22-06_città (Corfinio)_30
+1-23-01_romani_10
+1-23-02_romani_10
+1-23-04_Corfinio_30
+1-23-04_Roma_2
+1-23-05_Corfinio_30
+1-23-05_Puglia_202
+1-23-05_Marrucini_277
+1-23-05_Fretani_279
+1-23-05_Larinati_332
+1-24-01_Corfinio_30
+1-24-01_Lucera_29
+1-24-01_Canosa_126
+1-24-01_Brindisi_32
+1-24-03_Alba_9
+1-24-03_Terracina_127
+1-24-04_Cremona_128
+1-24-05_Brindisi_32
+1-24-01_Brindisi_32
+1-25-01_Corfinio_30
+1-25-01_Sicilia_460
+1-25-02_città (Brindisi)_32
+1-25-02_Durazzo_33
+1-25-02_Brindisi_32
+1-25-03_Brindisi_32
+1-25-03_Mare Adriatico_490
+1-25-03_penisola (Italia)_189
+1-25-03_Grecia_200
+1-25-04_Italia_189
+1-25-04_Brindisi_32
+1-26-01_Brindisi_32
+1-27-01_Brindisi_32
+1-27-01_Durazzo_33
+1-27-02_Italia_189
+1-27-03_città (Brindisi)_32
+1-28-01_Brindisi_32
+1-28-02_Brindisini_32
+1-28-04_Brindisi_32
+1-29-01_Adriatico_490
+1-29-02_Gallia_192
+1-29-02_(il) Piceno_224
+1-29-02_stretto di Messina_508
+1-29-03_Spagna_213
+1-29-03_Italia_189
+1-29-03_Gallia_192
+1-30-01_Spagna_213
+1-30-01_Brindisi_32
+1-30-02_Sardegna_463
+1-30-02_Sicilia_460
+1-30-02_Sardegna_463
+1-30-02_Sicilia_460
+1-30-02_Africa_215
+1-30-03_Cagliari_129
+1-30-03_Italia_189
+1-30-03_città (Cagliari)_129
+1-30-03_Africa_215
+1-30-04_Sicilia_460
+1-30-04_Lucania_226
+1-30-04_Bruzzio_227
+1-30-04_romani_10
+1-30-04_Sicilia_460
+1-30-04_provincia (Sicilia)_460
+1-31-01_Sardegna_463
+1-31-01_Sicilia_460
+1-31-02_Africa_215
+1-31-02_provincia (Africa)_215
+1-31-02_Osimo_27
+1-31-02_Africa_215
+1-31-02_provincia (Africa)_215
+1-31-03_Utica_80
+1-31-03_città (Utica)_80
+1-32-01_Roma_2
+1-32-03_popolo (romano)_2
+1-32-05_Roma_2
+1-33-02_Roma_2
+1-33-02_Roma_2
+1-33-04_Roma_2
+1-33-04_Gallia Ulteriore_228
+1-34-01_Spagna_213
+1-34-01_Corfinio_30
+1-34-02_Marsiglia_58
+1-34-02_isola del Giglio_481
+1-34-02_Cosa_130
+1-34-03_Marsiglia_58
+1-34-03_marsigliesi_58
+1-34-04_marsigliesi_58
+1-34-04_Albici_333
+1-34-04_Marsiglia_58
+1-34-04_città (Marsiglia)_58
+1-34-04_città (Marsiglia)_58
+1-35-01_Marsiglia_58
+1-35-01_marsigliesi_58
+1-35-01_romani_10
+1-35-01_Italia_189
+1-35-03_popolo (marsigliesi)_58
+1-35-03_popolo romano_2
+1-35-04_città (Marsiglia)_58
+1-35-04_Volci Arecomici_334
+1-35-04_Elvi_335
+1-35-04_Salli_336
+1-35-04_Marsiglia_58
+1-35-05_città (Marsiglia)_58
+1-36-01_Marsiglia_58
+1-36-01_marsigliesi_58
+1-36-01_città (Marsiglia)_58
+1-36-02_marsigliesi_58
+1-36-03_città (Marsiglia)_58
+1-36-04_marsigliesi_58
+1-36-04_Marsiglia_58
+1-36-04_città (Marsiglia)_58
+1-36-04_Arles_131
+1-36-05_Marsiglia_58
+1-36-05_città (Marsiglia)_58
+1-37-01_Spagna_213
+1-37-01_Narbona_132
+1-37-01_Pirenei_435
+1-37-03_passi (Pirenei)_435
+1-38-01_Spagna_213
+1-38-01_Spagna Citeriore_231
+1-38-01_(Spagna) Ulteriore_230
+1-38-01_valico di Castulo_453
+1-38-01_Anas_418
+1-38-01_Anas_418
+1-38-01_Vettoni_302
+1-38-01_Lusitania_232
+1-38-02_Lusitania_232
+1-38-02_Vettoni_302
+1-38-02_Spagna Ulteriore_230
+1-38-03_Lusitania_232
+1-38-03_Celtiberia_303
+1-38-03_Cantabri_320
+1-38-03_Oceano_489
+1-38-04_Vettoni_302
+1-38-04_Ilerda_185
+1-39-01_Spagna Citeriore_231
+1-39-01_Spagna Ulteriore_230
+1-39-01_province (Spagna)_213
+1-39-02_Spagna_213
+1-39-02_Gallia_192
+1-39-02_Aquitani_337
+1-39-02_Gallia_192
+1-39-03_Spagna_213
+1-39-03_Mauritania_243
+1-40-01_Sicori_397
+1-40-01_fiume (Sicori)_397
+1-40-03_fiume (Sicori)_397
+1-40-03_fiume (Sicori)_397
+1-40-04_fiume (Sicori)_397
+1-40-04_città (Ilerda)_185
+1-41-02_Ilerda_185
+1-43-01_Ilerda_185
+1-43-02_Ilerda_185
+1-44-02_Lusitani_232
+1-45-01_Ilerda_185
+1-45-02_Ilerda_185
+1-45-05_Ilerda_185
+1-45-07_città (Ilerda)_185
+1-46-01_Ilerda_185
+1-47-03_città (Ilerda)_185
+1-47-02_montane (Pirenei)_435
+1-48-03_Sicori_397
+1-48-03_Cinga_355
+1-48-04_Spagna_213
+1-48-04_Italia_189
+1-48-04_Gallia_192
+1-48-05_Ilerda_185
+1-48-07_Lusitani_232
+1-48-07_Spagna Citeriore_231
+1-49-02_Ilerda_185
+1-49-02_fiume (Sicori)_397
+1-50-01_fiume (Sicori)_397
+1-50-01_fiume (Sicori)_397
+1-50-02_fiume (Sicori)_397
+1-50-03_fiume (Sicori)_397
+1-51-01_fiume (Sicori)_397
+1-51-01_ruteni_250
+1-51-01_gallici_192
+1-51-04_Galli_192
+1-51-05_Galli_192
+1-51-06_monti (Vic)_542
+1-51-06_alture (Vic)_542
+1-52-03_romani_10
+1-53-01_Roma_2
+1-53-02_Urbe (Roma)_2
+1-53-02_Italia_189
+1-54-01_Britannia_281
+1-54-03_romano_2
+1-54-03_fiume (Sicori)_397
+1-56-01_Ilerda_185
+1-56-01_Marsiglia_58
+1-56-02_Albici_333
+1-56-04_Marsiglia_58
+1-57-02_marsigliesi_58
+1-57-03_Albici_333
+1-57-04_marsigliesi_58
+1-58-01_marsigliesi_58
+1-58-02_alleati (Albici)_333
+1-58-04_marsigliesi_58
+1-58-04_Albici_333
+1-58-05_marsigliesi_58
+1-59-01_Ilerda_185
+1-60-01_Osca_133
+1-60-01_Calaguris_134
+1-60-02_Terragonesi_136
+1-60-02_Iacetani_338
+1-60-02_Illurgavonensi_339
+1-60-02_Ebro_398
+1-60-03_romano_2
+1-60-04_Illurgavonensi_339
+1-60-04_concittadini (Illurgavonensi)_339
+1-60-04_romano_2
+1-60-05_Mauretania_243
+1-61-01_Sicori_397
+1-61-02_Celtiberia_303
+1-61-04_Celtiberia_303
+1-61-05_Ebro_398
+1-61-05_Octogesa_135
+1-61-05_fiume (Ebro)_398
+1-61-06_località (Octogesa)_135
+1-61-06_Sicori_397
+1-62-01_fiume (Sicori)_397
+1-62-03_Ebro_398
+1-62-03_Sicori_397
+1-63-01_Ilerda_185
+1-63-01_Sicori_397
+1-63-02_Ebro_398
+1-63-03_fiume (Sicori)_397
+1-64-02_fiume (Sicori)_397
+1-64-03_fiume (Sicori)_397
+1-64-05_fiume (Sicori)_397
+1-64-06_fiume (Sicori)_397
+1-64-07_fiume (Sicori)_397
+1-65-03_montagne (Sant Jeroni)_543
+1-65-04_monti (Sant Jeroni)_543
+1-65-04_romano_2
+1-65-04_Ebro_398
+1-66-03_luoghi (Sant Jeroni)_543
+1-66-04_luoghi (Sant Jeroni)_543
+1-66-04_luoghi (Sant Jeroni)_543
+1-67-01_valichi (Sant Jeroni)_543
+1-67-02_romano_2
+1-68-01_luoghi (Sant Jeroni)_543
+1-68-01_Ebro_398
+1-68-01_Octogesa_135
+1-68-03_Ebro_398
+1-69-01_Ilerda_185
+1-69-04_Ebro_398
+1-70-02_monti (Sant Jeroni)_543
+1-70-04_Octogesa_135
+1-72-05_monti (Sant Jeroni)_543
+1-72-05_Ebro_398
+1-73-01_Ebro_398
+1-73-02_Ilerda_185
+1-73-02_Terragona_136
+1-74-05_spagnoli_213
+1-77-02_romani_10
+1-78-01_Ilerda_185
+1-78-02_Ilerda_185
+1-78-03_Terragona_136
+1-78-03_Ilerda_185
+1-80-02_monte (Ilerda)_185
+1-83-03_romano_2
+1-83-04_Sicori_397
+1-83-05_fiume (Sicori)_397
+1-83-05_Germani_327
+1-85-06_Spagna_213
+1-85-07_Spagna_213
+1-85-08_Roma_2
+1-85-08_Urbe (Roma)_2
+1-85-03_Spagna_213
+1-85-03_Varo_353
+1-87-01_Varo_353
+1-87-05_Spagna_213
+1-87-05_Varo_353
+1-87-05_fiume (Varo)_353
+2-01-01_Spagna_213
+2-01-01_Marsiglia_58
+2-01-01_città (Marsiglia)_58
+2-01-02_Gallia_192
+2-01-02_Spagna_213
+2-01-02_Rodano_351
+2-01-03_Marsiglia_58
+2-01-03_Esso (Rodano)_351
+2-01-03_città (Marsiglia)_58
+2-01-04_provincia (Gallia)_192
+2-02-01_Marsiglia_58
+2-02-06_Albici_333
+2-02-06_marsigliesi_58
+2-02-06_città (Marsiglia)_58
+2-03-01_marsigliesi_58
+2-03-01_Stretto (di Messina)_508
+2-03-02_Messina_137
+2-03-02_città (Messina)_137
+2-03-03_Marsiglia_58
+2-03-03_marsigliesi_58
+2-04-01_marsigliesi_58
+2-04-03_marsigliesi_58
+2-04-03_città (Marsiglia)_58
+2-04-04_città (Marsiglia)_58
+2-04-05_marsigliesi_58
+2-04-05_Tauroento_138
+2-04-05_marsigliesi_58
+2-05-01_Tauroento_138
+2-05-01_Arles_131
+2-05-01_marsigliesi_58
+2-05-03_città (Marsiglia)_58
+2-05-05_città (Marsiglia)_58
+2-06-01_marsigliesi_58
+2-06-01_città (Marsiglia)_58
+2-06-03_Albici_333
+2-06-03_marsigliesi_58
+2-07-02_marsigliese_58
+2-07-02_Spagna Citeriore_231
+2-07-03_Marsiglia_58
+2-07-03_città (Marsiglia)_58
+2-07-03_cittadinanza (marsigliesi)_58
+2-07-03_città (Marsiglia)_58
+2-07-04_marsigliesi_58
+2-07-04_città (Marsiglia)_58
+2-09-08_città (Marsiglia)_58
+2-11-04_città (Marsiglia)_58
+2-12-03_città (Marsiglia)_58
+2-12-03_romani_10
+2-12-03_romani_10
+2-12-03_città (Marsiglia)_58
+2-12-04_Marsiglia_58
+2-13-01_romani_10
+2-13-02_romano_2
+2-13-03_città (Marsiglia)_58
+2-13-03_marsigliesi_58
+2-13-04_città (Marsiglia)_58
+2-13-04_città (Marsiglia)_58
+2-14-05_marsigliesi_58
+2-14-06_città (Marsiglia)_58
+2-15-01_Marsiglia_58
+2-16-01_marsigliesi_58
+2-16-02_città (Marsiglia)_58
+2-16-02_città (Marsiglia)_58
+2-16-03_romani_10
+2-17-01_Spagna Ulteriore_230
+2-17-01_Italia_189
+2-18-02_provincia (Spagna)_213
+2-18-04_Marsiglia_58
+2-18-04_Spagna Citeriore_231
+2-18-04_Ilerda_185
+2-18-01_Spagna Ulteriore_230
+2-18-01_marsigliesi_58
+2-18-01_Gaditani_340
+2-18-01_Ispali_139
+2-18-02_Cadice_57
+2-18-02_provincia (Spagna)_213
+2-18-02_Cadice_57
+2-18-02_romano_2
+2-18-02_Cadice_57
+2-18-04_provinciali (spagnoli)_213
+2-18-04_romana_2
+2-18-05_Spagna Ulteriore_230
+2-18-06_Spagna Citeriore_231
+2-18-06_Cadice_57
+2-18-06_Cadice_57
+2-18-07_Italia_189
+2-18-07_Spagna_213
+2-18-07_Spagna Citeriore_231
+2-19-01_Spagna Ulteriore_230
+2-19-01_Cordova_140
+2-19-02_provincia (Spagna)_213
+2-19-02_Cordova_140
+2-19-02_romano_2
+2-19-03_romani_10
+2-19-03_Cordova_140
+2-19-03_città (Cordova)_140
+2-19-03_Cordova_140
+2-19-04_Carmona_141
+2-19-04_città (Carmona)_141
+2-19-04_provincia (Spagna)_213
+2-19-04_città (Carmona)_141
+2-20-01_provinciali (spagnoli)_213
+2-20-01_Cadice_57
+2-20-01_Cadice_57
+2-20-02_Cadice_57
+2-20-02_città (Cadice)_57
+2-20-03_Cadice_57
+2-20-04_Ispali_139
+2-20-05_romani_10
+2-20-06_Italica_142
+2-20-07_romano_2
+2-20-08_Cordova_140
+2-20-08_provincia (Spagna)_213
+2-21-01_Cordova_140
+2-21-01_romani_10
+2-21-01_città (Cordova)_140
+2-21-01_spagnoli_213
+2-21-01_Cadice_57
+2-21-01_Cadice_57
+2-21-02_romani_10
+2-21-03_Cordova_140
+2-21-03_Cadice_57
+2-21-03_cittadina (Cadice)_57
+2-21-04_Terragona_136
+2-21-04_Cadice_57
+2-21-04_Terragona_136
+2-21-04_Spagna Citeriore_231
+2-21-05_Cordova_140
+2-21-05_Terragona_136
+2-21-05_Narbona_132
+2-21-05_Marsiglia_58
+2-21-05_città (Marsiglia)_58
+2-22-01_marsigliesi_58
+2-22-02_marsigliesi_58
+2-22-05_Marsiglia_58
+2-22-05_città (Marsiglia)_58
+2-22-06_marsigliesi_58
+2-22-06_città (Marsiglia)_58
+2-22-06_roccaforte (Marsiglia)_58
+2-22-06_Italia_189
+2-22-06_Roma_2
+2-23-01_Sicilia_460
+2-23-01_Africa_215
+2-23-01_Anquillaria_143
+2-23-02_Clipea_65
+2-23-02_Anquillaria_143
+2-23-03_Clipea_65
+2-23-03_Utica_80
+2-23-03_Adrumeto_144
+2-23-04_roccaforte (Adrumeto)_144
+2-23-04_Adrumeto_144
+2-23-05_Sicilia_460
+2-24-01_Utica_80
+2-24-01_Bagrada_399
+2-24-02_Campo Cornelio_145
+2-25-03_forti (Campo Cornelio)_145
+2-25-03_Utica_80
+2-25-04_città (Utica)_80
+2-25-01_città (Utica)_80
+2-25-01_Belica (Utica)_80
+2-25-01_Utica_80
+2-25-01_città (Utica)_80
+2-25-02_città (Utica)_80
+2-25-03_città (Utica)_80
+2-25-03_Numidi_199
+2-25-03_Utica_80
+2-25-04_Roma_2
+2-25-04_regno (Numidia)_199
+2-25-05_Numidi_199
+2-25-05_città (Utica)_80
+2-25-06_Utica_80
+2-25-06_Campo Cornelio_145 
+2-25-07_Utica_80
+2-25-07_luogo (Campo Cornelio)_145
+2-26-01_Bagrada_399
+2-26-01_Utica_80
+2-26-01_città (Utica)_80
+2-26-02_Utica_80
+2-26-04_città (Utica)_80
+2-27-01_Marsi_275
+2-28-01_Corfinio_30
+2-28-01_Africa_215
+2-28-01_Africa_215
+2-28-01_Corfinio_30
+2-29-03_Marsi_275
+2-29-03_Peligni_276
+2-30-03_Campo Cornelio_145
+2-30-03_Sicilia_460
+2-32-01_Corfinio_30
+2-32-01_Italia_189
+2-32-03_Italia_189
+2-32-03_Sicilia_460
+2-32-03_Africa_215
+2-32-03_Urbe (Roma)_2
+2-32-03_penisola (Italia)_189
+2-32-05_Spagna_213
+2-32-05_province (Spagna)_213
+2-32-12_Africa_215
+2-32-13_Corfinio_30
+2-32-13_Italia_189
+2-32-13_Spagna_213
+2-32-13_Africa_215
+2-34-03_Marrucini_277
+2-34-04_Sicilia_460
+2-35-01_Peligno_276
+2-35-02_Peligno_276
+2-25-03_città (Utica)_80
+2-35-04_città (Utica)_80
+2-35-05_roccaforte (Utica)_80
+2-35-06_cittadine (Utica)_80
+2-36-01_Utica_80
+2-36-01_uticensi_80
+2-36-01_romani_10
+2-36-01_cittadinanza (uticensi)_80
+2-36-02_tutti (uticensi)_80
+2-36-03_uticensi_80
+2-36-03_città (Utica)_80
+2-37-02_Africa_215
+2-37-02_Spagna_213
+2-37-03_Utica_80
+2-37-03_Campo Cornelio_145
+2-37-04_luogo (Campo Cornelio)_145
+2-37-04_Sicilia_460
+2-37-05_Campo Cornelio_145
+2-37-05_luogo (Campo Cornelio)_145
+2-38-01_città (Utica)_80
+2-38-01_Leptis (Minor)_109
+2-38-01_regno (Numidia)_199
+2-38-01_Utica_80
+2-38-03_Bagrada_399
+2-38-04_Numidi_199
+2-39-01_Bagrada_399
+2-40-01_spagnoli_213
+2-40-01_Galli_192
+2-41-06_Numidi_199
+2-41-08_romani_10
+2-42-03_accampamento (Campo Cornelio)_145
+2-42-05_accampamento (Campo Cornelio)_145
+2-43-01_accampamento (Campo Cornelio)_145
+2-43-01_Sicilia_460
+2-44-01_Sicilia_460
+2-44-02_città (Utica)_80
+2-44-02_regno (Numidia)_199
+2-44-03_città (Utica)_80
+2-44-03_patria (Numidia)_199
+3-01-02_penisola (Italia)_189
+3-01-04_romani_10
+3-01-04_cittadini (romani)_10
+3-01-04_città (Roma)_2
+3-02-01_latine_193
+3-02-01_Roma_2
+3-02-01_Brindisi_32
+3-02-02_città (Brindisi)_32
+3-02-03_Gallia_192
+3-02-03_province spagnole_213
+3-02-03_pugliese_202
+3-02-03_Brindisi_32
+3-02-03_Gallia_192
+3-02-03_Spagna_213
+3-03-01_Asia_205
+3-03-01_Cicladi_482
+3-03-01_Corcira_461
+3-03-01_Atene_39
+3-03-01_Ponto_196
+3-03-01_Bitinia_233
+3-03-01_Siria_211
+3-03-01_Cilicia_195
+3-03-01_Fenicia_292
+3-03-01_Egitto_198
+3-03-02_Asia_205
+3-03-02_Siria_211
+3-03-02_Acaia_223
+3-04-01_romani_10
+3-04-01_Italia_189
+3-04-01_Cilicia_195
+3-04-01_Creta_464
+3-04-01_Macedonia_285
+3-04-01_Asia_205
+3-04-02_Tessaglia_187
+3-04-02_Beozia_206
+3-04-02_Acaia_223
+3-04-02_Epiro_204
+3-04-03_Siria_211
+3-04-03_Creta_464
+3-04-03_Sparta_63
+3-04-03_Ponto_196
+3-04-03_Siria_211
+3-04-03_Galli (Galizia)_328
+3-04-03_Cappadocia_221
+3-04-03_Tracia_197
+3-04-03_Macedoni_285
+3-04-03_Alessandria_34
+3-04-04_Galli_192
+3-04-04_Germani_327
+3-04-04_Alessandria_34
+3-04-05_Galizia_328
+3-04-05_Siria_211
+3-04-06_Dardani_341
+3-04-06_Bessi_318
+3-04-06_Macedoni_285
+3-04-06_Tessali_187
+3-05-01_Tessaglia_187
+3-05-01_Asia_205
+3-05-01_Egitto_198
+3-05-01_Creta_464
+3-05-01_Cirene_107
+3-05-02_Durazzo_33
+3-05-02_Apollonia_146
+3-05-02_Adriatico_490
+3-05-03_egiziane_198
+3-05-03_asiatiche_205
+3-05-03_siriache_211
+3-05-03_Rodi_469
+3-05-03_liburnica_310
+3-05-03_achea_223
+3-06-01_Brindisi_32
+3-06-01_Italia_189
+3-06-03_Cerauni_438
+3-06-03_Paleste_74
+3-07-01_Orico_42
+3-07-01_asiatiche_205
+3-07-01_Corcira_461
+3-08-01_Brindisi_32
+3-08-03_Corcira_461
+3-08-04_Sasone_462
+3-08-04_Curico_483
+3-09-01_liburnica_310
+3-09-01_Illiria_214
+3-09-01_Salona_36
+3-09-01_Dalmati_217
+3-09-01_Issa_178
+3-09-02_romana_2
+3-09-02_Salona_36
+3-09-02_città (Salona)_36
+3-09-03_cittadini (Salona)_36
+3-09-04_città (Salona)_36
+3-09-05_Soloniani_36
+3-09-06_cittadine (Salona)_36
+3-09-08_Salona_36
+3-09-08_Durazzo_33
+3-10-01_Corfinio_30
+3-10-01_Spagna_213
+3-10-05_Italia_189
+3-10-05_Sicilia_460
+3-10-05_Sardegna_463
+3-10-05_Spagne_213
+3-10-05_romani_10
+3-10-05_Italia_189
+3-10-05_Spagna_213
+3-10-05_africano_215
+3-10-05_Curitta_483
+3-10-08_romano_2
+3-10-10_romani_10
+3-11-02_Candavia_541
+3-11-02_Macedonia_285
+3-11-02_Apollonia_146
+3-11-02_Durazzo_33
+3-11-02_Apollonia_146
+3-11-03_Orico_42
+3-11-03_roccaforte (Orico)_42
+3-11-03_Partini_342
+3-11-04_Greci_200
+3-11-04_romano_2
+3-11-04_Orico_42
+3-11-04_città (Orico)_42
+3-12-01_Orico_42
+3-12-01_Apollonia_146
+3-12-01_roccaforte (Apollonia)_146
+3-12-01_cittadini (Apollonia)_146
+3-12-02_penisola (Italia)_189
+3-12-03_Apollonia_146
+3-12-03_città (Apollonia)_146
+3-12-04_Billide_147
+3-12-04_Amanzia_148
+3-12-04_Epiro_204
+3-13-01_Orico_42
+3-13-01_Apollonia_146
+3-13-01_Durazzo_33
+3-13-02_epiroti_204
+3-13-03_Durazzo_33
+3-13-05_Durazzo_33
+3-13-05_Apso_402
+3-13-05_Apollonia_146
+3-13-05_Italia_189
+3-13-06_fiume (Apso)_402
+3-14-01_Brindisi_32
+3-14-02_porto (Brindisi)_32
+3-14-02_Orico_42
+3-15-01_Orico_42
+3-15-03_Corcira_461
+3-15-06_Orico_42
+3-16-02_Butroto_152
+3-16-02_cittadina (Butroto)_152
+3-16-02_Corcira_461
+3-16-03_Orico_42
+3-18-04_Italia_189
+3-18-04_terra (Italia)_189
+3-19-01_Apso_402
+3-19-02_romani_10
+3-19-02_concittadini (romani)_10
+3-19-02_Pirenei_435
+3-19-02_concittadini (romani)_10
+3-20-01_Roma_2
+3-21-03_popolo (romano)_2
+3-21-04_Italia_189
+3-21-04_Turii_153
+3-21-05_Casilino_154
+3-21-05_Capua_116
+3-21-05_Napoli_155
+3-21-05_Capua_116
+3-21-05_Capua_116
+3-21-05_romani_10
+3-21-05_zone (Campania)_216
+3-22-02_Compsa_156
+3-22-02_oppidum (Compsa)_156
+3-22-02_agro Irpino_532
+3-22-03_Turii_153
+3-22-03_cittadini (Turii)_153
+3-22-03_gallici_192
+3-22-03_spagnoli_213
+3-22-03_cittadina (Turii)_153
+3-22-04_penisola (Italia)_189
+3-23-01_Orico_42
+3-23-01_Brindisi_32
+3-23-01_isola (Brindisi)_32
+3-24-01_Brindisi_32
+3-24-01_Brindisi_32
+3-24-04_Brindisi_32
+3-25-01_Brindisi_32
+3-25-03_Brindisi_32
+3-25-03_Apollonia_146
+3-25-03_Labeati_343
+3-26-01_Apollonia_146
+3-26-01_Durazzo_33
+3-26-02_rodia_469
+3-26-02_Durazzo_33
+3-26-03_Durazzo_33
+3-26-04_Ninfeo_158
+3-26-04_Lisso_75
+3-26-04_porto (Ninfeo)_158
+3-26-05_Ninfeo_158
+3-27-01_uno (Ninfeo)_158
+3-27-02_rodie_469
+3-28-01_Lisso_75
+3-28-02_Lisso_75
+3-28-05_Lisso_75
+3-29-01_romani_10
+3-29-01_Lisso_75
+3-29-01_città (Lisso)_75
+3-29-01_città (Lisso)_75
+3-29-02_Italia_189
+3-29-03_Lisso_75
+3-29-03_gallica_75
+3-29-03_Italia_189
+3-30-01_Apollonia_146
+3-30-01_Durazzo_33
+3-30-03_Apso_402
+3-30-04_fiume (Apso)_402
+3-30-04_fiume (Apso)_402
+3-30-06_Greci_200
+3-30-07_Asparagio_157
+3-30-07_località (Asparagio)_157
+3-30-07_Durazzo_33
+3-30-07_qui (Asparagio)_157
+3-31-01_Amano_443
+3-31-02_Siria_211
+3-31-02_provincia (Siria)_211
+3-31-03_Parti_244
+3-31-03_Siria_211
+3-31-04_provinciali (Siria)_211
+3-31-04_Parti_244
+3-31-04_concittadino (romano)_2
+3-31-04_Pergamo_159
+3-32-01_provinciale (Siria)_211
+3-32-04_provincia (Siria)_211
+3-32-04_patria (Roma)_2
+3-32-05_provincia (Siria)_211
+3-32-06_romani_10
+3-33-01_Efeso_94
+3-33-02_Macedonia_285
+3-33-02_Efeso_94
+3-34-01_Orico_42
+3-34-02_Tessaglia_187
+3-34-02_Etolia_234
+3-34-02_Tessaglia_187
+3-34-02_Etolia_234
+3-34-03_Macedonia_285
+3-34-04_provincia (Macedonia)_285
+3-35-01_Etoli_234
+3-35-01_Calidone_88
+3-35-01_Naupatto_161
+3-35-01_Etolia_234
+3-35-02_Tessaglia_187
+3-35-02_terra (Tessaglia)_187
+3-36-01_Macedonia_285
+3-36-02_Macedonia_285
+3-37-01_Aliacmone_419
+3-37-01_fiume (Aliacmone)_419
+3-37-04_fiume (Aliacmone)_419
+3-37-04_fiume (Aliacmone)_419
+3-39-01_Orico_42
+3-39-01_Italia_189
+3-39-02_città (Orico)_42
+3-40-01_egiziana_198
+3-40-01_Orico_42
+3-40-01_città (Orico)_42
+3-40-02_città (Orico)_42
+3-40-04_asiatica_205
+3-40-04_città (Orico)_42
+3-40-04_Billide_147
+3-40-04_Amanzia_148
+3-40-05_Lisso_75
+3-40-05_Lisso_75
+3-40-05_romani_10
+3-40-05_colonia (Lisso)_75
+3-41-01_Asparagio_157
+3-41-01_Partini_342
+3-41-03_Durazzo_33
+3-41-03_Durazzo_33
+3-41-03_città (Durazzo)_33
+3-41-04_città (Durazzo)_33
+3-41-05_Durazzo_33
+3-42-01_Durazzo_33
+3-42-02_Asia_205
+3-42-03_Italia_189
+3-42-03_Sicilia_460
+3-42-03_Gallia_192
+3-42-03_Italia_189
+3-42-03_Epiro_204
+3-42-04_Lisso_75
+3-42-04_Partini_342
+3-42-05_Partini_342
+3-44-01_Durazzo_33
+3-44-01_città (Durazzo)_33
+3-44-01_Durazzo_33
+3-47-05_Spagna_213
+3-47-05_Alesia_162
+3-47-05_Avarico_163
+3-47-06_Epiro_204
+3-52-02_Germani_327
+3-53-01_Durazzo_33
+3-53-01_Asia_205
+3-55-01_Etolia_234
+3-55-01_Acarnania_235
+3-55-01_Anfilochia_236
+3-55-01_Achei_223
+3-55-02_Grecia_200
+3-55-03_provincia greca_200
+3-55-03_istmo di Corinto_512
+3-55-03_Acaia_223
+3-55-04_Delfi_68
+3-55-04_Tebe_101
+3-55-04_Orcomeno_164
+3-57-01_Acaia_223
+3-57-01_Durazzo_33
+3-57-01_Macedonia_285
+3-57-04_penisola (Italia)_189
+3-58-01_Durazzo_33
+3-58-04_Corcira_461
+3-58-04_Acarnania_235
+3-59-01_Allobrogi_344
+3-59-01_galliche_192
+3-59-02_Allobrogi_344
+3-59-02_Gallia_192
+3-60-02_Allobrogi_344
+3-61-01_Allobrogi_344
+3-61-02_Epiro_204
+3-61-02_Etolia_234
+3-61-03_Allobrogi_344
+3-62-03_Durazzo_33
+3-63-05_Allobrogi_344
+3-66-06_fiume (Palamno)_544
+3-68-02_fiume (Palamno)_544
+3-68-03_fiume (Palamno)_544
+3-70-02_fiume (Palamno)_544
+3-71-01_romani_10
+3-71-01_Pozzuoli_150
+3-71-01_Capua_116
+3-73-03_Italia_189
+3-73-03_Spagna_213
+3-73-06_Gergovia_151
+3-75-01_Apollonia_146
+3-75-03_Genuso_401
+3-75-03_fiume (Genuso)_401
+3-76-01_Genuso_401
+3-76-01_Asparagio_157
+3-76-02_Asparagio_157
+3-76-04_Asparagio_157
+3-78-01_Apollonia_146
+3-78-03_Durazzo_33
+3-78-03_Italia_189
+3-78-03_Illiria_214
+3-78-03_Apollonia_146
+3-78-03_Orico_42
+3-78-04_Apollonia_146
+3-78-04_Lisso_75
+3-78-04_Orico_42
+3-78-04_Epiro_204
+3-78-04_Atamania_290
+3-78-05_Orico_42
+3-78-05_Italia_189
+3-79-02_Apollonia_146
+3-79-02_Macedonia_285
+3-79-02_Candavia_541
+3-79-03_Eraclea Lincestide_149
+3-79-04_Durazzo_33
+3-79-06_Allobrogi_344
+3-79-06_Gallia_192
+3-79-07_Eginio_165
+3-79-07_città (Eginio)_165
+3-79-07_Tessaglia_187
+3-80-01_Gomfi_166
+3-80-01_città (Gomfi)_166
+3-80-01_Tessaglia_187
+3-80-01_Epiro_204
+3-80-01_città (Gomfi)_166
+3-80-02_Durazzo_33
+3-80-03_Tessaglia_187
+3-80-03_città (Gomfi)_166
+3-80-03_cittadine (Gomfi)_166
+3-80-03_urbane (Gomfi)_166
+3-80-03_città (Gomfi)_166
+3-80-04_Durazzo_33
+3-80-04_Larissa_85
+3-80-04_Tessaglia_187
+3-80-06_città (Gomfi)_166
+3-80-07_città (Gomfi)_166
+3-80-07_Meropoli_167
+3-80-07_Gomfi_166
+3-81-01_Meropoli_167
+3-81-01_Gomfi_166
+3-81-01_Gomfi_166
+3-81-02_Tessaglia_187
+3-81-02_Meropoli_167
+3-81-02_Gomfi_166
+3-81-02_Larissa_85
+3-81-03_pianura (Farsalo)_3
+3-82-01_Tessaglia_187
+3-82-02_Italia_189
+3-82-03_Parti_244
+3-83-01_Roma_2
+3-83-02_Spagna_213
+3-83-03_Roma_2
+3-84-01_Durazzo_33
+3-84-05_Allobrogi_344
+3-87-01_Gallia_192
+3-87-01_Germania_327
+3-87-02_Italia_189
+3-87-03_Brindisi_32
+3-87-04_Gallia Citeriore_229
+3-87-04_transpadane_228
+3-87-04_Durazzo_33
+3-88-03_siriache_211
+3-88-03_Cilicia_195
+3-88-03_spagnole_213
+3-88-06_ruscello (Enipeo)_407
+3-89-01_Durazzo_33
+3-90-01_Orico_42
+3-93-06_monti (Ossa)_426
+3-95-03_Traci_197
+3-95-05_monti (Ossa)_426
+3-96-03_Larissa_85
+3-96-04_città (Larissa)_85
+3-97-02_monte (Ossa)_426
+3-97-02_monte (Ossa)_426
+3-97-02_Larissa_85
+3-97-04_monte (Ossa)_426
+3-97-04_fiume (Enipeo)_407
+3-97-04_fiume (Enipeo)_407
+3-97-04_monte (Ossa)_426
+3-98-01_monte (Ossa)_426
+3-98-03_Larissa_85
+3-00-01_Brindisi_32
+3-00-01_isola (Bridinsi)_32
+3-00-01_cittadino (Brindisi)_32
+3-00-02_città (Brindisi)_32
+3-00-03_Corcira_461
+3-00-03_Durazzo_33
+3-00-03_Tessaglia_187
+3-00-03_isola (Brindisi)_32
+3-101-01_Sicilia_460
+3-101-01_siriache_211
+3-101-01_fenice_292
+3-101-01_cilice_195
+3-101-01_Vibo_168
+3-101-01_Messina_137
+3-101-01_Messina_137
+3-101-03_Messina_137
+3-101-03_città (Messina)_137
+3-101-04_città (Messina)_137
+3-101-04_Vibo_168
+3-101-07_Tessaglia_187
+3-102-02_Anfipoli_547
+3-102-02_Greci_200
+3-102-02_romani_10
+3-102-03_Macedonia_285
+3-102-04_Anfipoli_547
+3-102-04_Mitilene_76
+3-102-05_città (Mitilene)_76
+3-102-05_Cilicia_195
+3-102-05_Cipro_465
+3-102-06_Antiochia_170
+3-102-06_romani_10
+3-102-06_città (Antiochia)_170
+3-102-06_Antiochia_170
+3-102-07_Rodi_469
+3-102-07_città (Rodi)_469
+3-103-01_Siria_211
+3-103-01_Pelusio_103
+3-103-02_Egitto_198
+3-103-02_regno (Egitto)_198
+3-103-03_Alessandria_34
+3-103-05_Siria_211
+3-103-05_Alessandria_34
+3-104-01_Egitto_198
+3-104-01_Alessandria_34
+3-104-01_Egitto_198
+3-105-01_Asia_205
+3-105-01_Efeso_94
+3-105-01_provincia (Asia)_205
+3-105-02_Efeso_94
+3-105-03_Elide_171
+3-105-04_Antiochia_170
+3-105-04_Siria_211
+3-105-04_cittadini (Antiochia)_170
+3-105-04_città (Antiochia)_170
+3-105-04_Tolemaide_171
+3-105-05_Pergamo_159
+3-105-05_Greci_200
+3-105-06_Tralle_173
+3-106-01_Asia_205
+3-106-01_Cipro_465
+3-106-01_Egitto_198
+3-106-01_regno (Egitto)_198
+3-106-01_Alessandria_34
+3-106-01_Tessaglia_187
+3-106-01_Acaia_223
+3-106-01_rodiesi_469
+3-106-01_Asia_205
+3-106-04_Alessandria_34
+3-106-04_città (Alessandria)_34
+3-106-05_città (Alessandria)_34
+3-107-01_Asia_205
+3-107-01_Alessandria_34
+3-107-02_romano_2
+3-108-01_Egitto_198
+3-108-02_Pelusio_103
+3-108-02_Alessandria_34
+3-108-05_Roma_2
+3-108-05_romano_2
+3-108-06_Roma_2
+3-108-06_Alessandria_34
+3-108-01_egizia_198
+3-109-01_Alessandria_34
+3-109-02_città (Alessandria)_34
+3-109-02_Alessandria_34
+3-109-04_Roma_2
+3-109-06_egiziani_198
+3-110-02_Alessandria_34
+3-110-02_romano_2
+3-110-02_Egitto_198
+3-110-03_Siria_211
+3-110-03_Cilicia_195
+3-110-04_Alessandria_34
+3-110-05_alessandrino_34
+3-110-05_Egitto_198
+3-110-06_Alessandria_34
+3-110-06_egiziani_198
+3-111-01_Alessandria_34
+3-111-01_città (Alessandria)_34
+3-111-03_Alessandria_34
+3-111-03_Tessaglia_187
+3-111-03_Egitto_198
+3-111-03_Alessandria_34
+3-111-06_Faro (Alessandria)_34
+3-112-01_Faro (Alessandria)_34
+3-112-01_isola (Alessandria)_34
+3-112-02_isola (Alessandria)_34
+3-112-02_Alessandria_34
+3-112-02_isola (Alessandria)_34
+3-112-02_città (Alessandria)_34
+3-112-03_isola (Alessandria)_34
+3-112-03_egiziani_198
+3-112-03_Faro (Alessandria)_34
+3-112-04_Alessandria_34
+3-112-04_Faro (Alessandria)_34
+3-112-05_Faro (Alessandria)_34
+3-112-05_isola (Alessandria)_34
+3-112-07_Alessandria_34
+3-112-07_città (Alessandria)_34
+3-112-08_città (Alessandria)_34

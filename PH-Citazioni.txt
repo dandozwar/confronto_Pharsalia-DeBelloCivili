@@ -1,0 +1,1882 @@
+01-001_Emazia_187
+01-009_latino_193
+01-010_Babilonia_1
+01-011_ausoni_189
+01-018_Scizia_188
+01-019_Seri_240
+01-020_Arasse_345
+01-021_Nilo_346
+01-021_Roma_2
+01-023_Italia_189
+01-028_Esperia_189
+01-030_cartaginese_66
+01-038_Farsalo_3
+01-039_cartaginesi_66
+01-040_Munda_181
+01-041_Perugia_4
+01-042_Modena_5
+01-043_Leucade_459
+01-043_Etna_424
+01-044_Roma_2
+01-055_Roma_2
+01-065_Cirra_7
+01-066_Romano_2
+01-072_Roma_2
+01-085_Roma_2
+01-101_istmo (Corinto)_512
+01-103_Ionio_485
+01-103_Egeo_486
+01-105_Assiria_241
+01-105_Carre_8
+01-118_Sabine_242
+01-122_Galli_192
+01-180_Campo di Marte_499
+01-183_Alpi_425
+01-185_Rubicone_347
+01-186_patria (Roma)_2
+01-195_Rupe Tarpea_500
+01-196_frigi_190
+01-198_Alba_9
+01-199_Roma_2
+01-206_Libia_191
+01-210_Mauro_243
+01-213_Rubicone_347
+01-216_terre galliche_192
+01-216_ausoni_189
+01-218_Alpi_425
+01-222_fiume (Rubicone)_347
+01-224_Esperia_189
+01-230_baleare_468
+01-231_Parto_244
+01-231_Rimini_10
+01-244_romane_2
+01-248_Galli_192
+01-254_Lazio_193
+01-255_Senoni_245
+01-255_Cimbri_246
+01-255_libico_191
+01-255_teutonico_247
+01-257_Roma_2
+01-283_Gallia_192
+01-285_Roma_2
+01-287_Campidoglio_501
+01-293_eleo_171
+01-302_Alpi_425
+01-303_Roma_2
+01-304_punico_66
+01-304_Alpi_425
+01-309_Galli_192
+01-320_puniche_66_502
+01-328_ircane (Ircania)_195
+01-336_Cilicia_195
+01-337_Ponto_196
+01-351_Roma_2
+01-353_patrii (Roma)_2
+01-360_romano_2
+01-367_Scizia_188
+01-368_Sirti_487
+01-368_Libia_191
+01-370_Oceano_489
+01-371_Reno_371
+01-381_etrusco_248
+01-381_Tevere_349
+01-383_ausoni_189
+01-386_Roma_2
+01-388_tracio_197
+01-389_Ossa_426
+01-395_terre galliche_192
+01-395_Roma_2
+01-397_Lemano (Lago)_514
+01-398_Vosgi_427
+01-398_Lingoni_249
+01-399_Isara_350
+01-400_fiume (Rodano)_351
+01-402_Ruteni_250
+01-403_Atace_352
+01-404_latine_193
+01-404_Varo_353
+01-405_Esperia_189
+01-405_porto (Monaco)_11
+01-409_Monaco_11
+01-416_Oceano_489
+01-421_Nemete_251
+01-421_Aturio_354
+01-422_Tarbelli_252
+01-423_Santone_252
+01-423_Biturige_254
+01-424_Suessioni_255
+01-424_Leuci_256
+01-424_Remo_257
+01-425_Sequani_258
+01-426_Belga_259
+01-427_Arverni_260
+01-427_latini_193
+01-428_troiano_175
+01-428_Nervi_261
+01-429_popolo (Eburoni)_262
+01-430_Sarmata_263
+01-431_Vangioni_264
+01-431_Batavi_265
+01-433_Cinga_355
+01-433_Rodano_351
+01-434_Arari_356
+01-435_Cevenne_428
+01-441_Treviro_266
+01-442_Ligure_267
+01-444_Gallia Chiomata_192
+01-446_scitica_188
+01-464_Caici_268
+01-464_Roma_2
+01-465_Reno_371
+01-467_Italia_189
+01-470_popolo (italico)_189
+01-474_Mevania_12
+01-476_Nera_357
+01-476_Tevere_349
+01-481_Reno_371
+01-482_Alpi_425
+01-484_Roma_2
+01-484_romani_2
+01-487_volgo (romani)_2
+01-496_città (Roma)_2
+01-498_libiche_191
+01-499_Sirti_487
+01-503_città (Roma)_2
+01-505_patrii (Roma)_2
+01-509_città (Roma)_2
+01-509_volgo (romani)_2
+01-511_città (Roma)_2
+01-515_romano_2
+01-519_Roma_2
+01-535_vetta Laziare_503
+01-541_Olimpo_429
+01-543_Micene_13
+01-545_siculo_460
+01-545_Etna_424
+01-547_esperio_189
+01-551_latine_193
+01-552_tebani_14
+01-553_Alpi_425
+01-555_esperia_213
+01-555_Calpe_506
+01-555_Atlante_430
+02-557_città (Roma)_2
+01-560_Roma_2
+01-564_popolo (romani)_2
+01-564_cumana (Cuma)_15
+01-567_Galli_192
+01-572_città (Roma)_2
+01-575_tebana_14
+01-580_Campo Marzio_499
+01-583_Aniene_358
+01-585_etruschi_248
+01-586_Lucca_16
+01-592_cittadini (romani)_2
+01-598_troiana_175
+01-600_Almone_359
+01-605_città (Roma)_2
+01-637_etrusco_248
+01-640_egizia_198
+01-640_Menfi_17
+01-645_Roma_2
+01-656_Nemea_174
+01-662_Cillenio_431
+01-670_Roma_2
+01-675_Pindo_432
+01-679_Pangeo_433
+01-680_Filippi_18
+01-680_Emo_434
+01-682_romane_2
+01-684_Nilo_346
+01-684_Lago_536
+01-687_Sirti_487
+01-687_Libia_191
+01-688_Emazia_187
+01-689_Alpi_425
+01-689_Pirenei_435
+01-690_città (Roma)_2
+01-694_Filippi_18
+02-004_Olimpo_429
+02-017_città (Roma)_2
+02-045_punici_66
+02-045_Canne_19
+02-045_Trebbia_360
+02-049_Susa_20
+02-049_Medi_269
+02-050_scitico_188
+02-050_Istro_361
+02-050_Massageti_270
+02-051_Elba_362
+02-051_Reno_371
+02-052_Svevi_271
+02-054_Daci_272
+02-054_Geti_273
+02-055_Iberi_213
+02-057_Roma_2
+02-057_Esperia_189
+02-061_Roma_2
+02-069_Teutoni_247
+02-069_libici (Numidi)_199
+02-070_palustri (Minturno)_537
+02-075_Roma_2
+02-085_Cimbri_246
+02-087_Roma_2
+02-090_regno (Numidia)_199
+02-091_puniche_66
+02-091_Cartagine_66
+02-093_là (Numidia)_199
+02-093_libiche_191
+02-099_mura (Roma)_2
+02-116_popolo (romani)_2
+02-134_Sacriporto_538
+02-135_porta Collina_505
+02-137_Sannita_274
+02-138_romani_2
+02-138_Forche Caudine_534
+02-140_Roma_2
+02-161_Foro_502
+02-162_Tracia_197
+02-164_Bistonio_210
+02-164_Libia_191
+02-164_Grecia_200
+02-165_Pisa (Elide)_21
+02-193_Preneste_22
+02-196_Esperia_189
+02-196_latina_193
+02-197_Roma_2
+02-209_gorgo (Tevere)_349
+02-217_Tevere_349
+02-222_Campo di Marte_499
+02-228_Roma_2
+02-240_città (Roma)_2
+02-271_Olimpo_429
+02-294_Esperia_189
+02-296_Roma_2
+02-297_Dahi_280
+02-297_Geti_273
+02-302_Roma_2
+02-305_romani_2
+02-310_Reno_371
+02-313_romani_2
+02-318_esperii_189
+02-369_sabina_242
+02-388_Roma_2
+02-393_mura (Capua)_116
+02-396_Appennino_436
+02-397_Italia_189
+02-398_Olimpo_429
+02-399_catena (Appennini)_436
+02-401_Pisa_23
+02-401_tirrene_494
+02-402_Ancona_24
+02-402_flutti (Adriatico)_490
+02-403_montagna (Appennini)_436
+02-405_Metauro_363
+02-406_Crustumio_364
+02-406_Savio_365
+02-406_Isauro_366
+02-407_Sena_367
+02-407_Ofanto_368
+02-407_onda adriatica_490
+02-408_Eridano (Po)_369
+02-410_Esperia_189
+02-416_Nilo_346
+02-416_Nilo_346
+02-417_libiche_191
+02-417_Egitto_198
+02-418_Istro_361
+02-418_Istro_361
+02-420_onde (Mar Nero)_491
+02-421_catena (Appennini)_436
+02-422_Tevere_349
+02-422_Rutuba_370
+02-423_Volturno_371
+02-423_Sarno_372
+02-424_Liri_373
+02-424_Vestine_278
+02-425_Marica_454
+02-425_Sele_374
+02-426_Salerno_25
+02-426_Magra_375
+02-427_Luni_26
+02-428_Appennino_436
+02-429_campagne galliche_192
+02-429_Alpi_425
+02-430_Umbri_201
+02-430_Marsi_275
+02-431_sabello (Sabini)_242
+02-432_Lazio_193
+02-432_Esperia_189
+02-433_Scilla (stretto Messina)_508
+02-434_Lacina (promontorio Lacino)_523
+02-435_Italia_189
+02-438_(capo) Peloro_517
+02-441_Esperia_189
+02-447_Lazio_193
+02-462_popolo etrusco_248
+02-463_Umbria_201
+02-466_Osimo_27
+02-469_Ascoli_28
+02-473_Lucera_29
+02-475_Parti_244
+02-476_Gallia_192
+02-478_Corfinio_30
+02-496_Gange_376
+02-498_Rubicone_347
+02-518_romano_2
+02-521_Roma_2
+02-534_esperii_189
+02-535_gallica_192
+02-535_Alpi_425
+02-538_Roma_2
+02-548_Sicilia_460
+02-549_Iberi_213
+02-551_Roma_2
+02-552_Partica_244
+02-553_Scizia_188
+02-565_città romana_2
+02-569_Gallia_192
+02-571_Reno_371
+02-571_Oceano_489
+02-572_Britanni_281
+02-583_Ponto_196
+02-583_romani_2
+02-586_Fasi_377
+02-587_Egitto_198
+02-587_Siene_31
+02-588_Beti_378
+02-590_Arabo_282
+02-590_Eniochi_283
+02-591_Colchi_209
+02-592_Cappadoci_221
+02-592_Giudei_284
+02-593_Sofene_238
+02-594_Armeni_203
+02-594_Cilici_195
+02-594_Tauri_437
+02-608_Esperia_189
+02-609_Apulia_202
+02-609_Brindisi_32
+02-613_Esperia_189
+02-615_onde adriatiche_490
+02-617_isola (Brindisi)_32
+02-623_Corcira_461
+02-624_Epidamno (Durazzo)_33
+02-624_onde ioniche_485
+02-625_Adriatico_490
+02-626_Cerauni_438
+02-627_Sasona_462
+02-629_Iberi_213
+02-630_Alpi_425
+02-633_Eufrate_379
+02-633_Nilo_346
+02-634_Roma_2
+02-635_Cilici_195
+02-637_Faro (Alessandria)_34
+02-638_Armenie_203
+02-639_Ponto_196
+02-641_Meotide_493
+02-641_scitici_188
+02-645_latino_193
+02-646_Epiro_204
+02-647_Greci_200
+02-647_Macedoni_285
+02-658_Italia_189
+02-665_Erice_455
+02-666_Egeo_486
+02-667_Gauro_456
+02-668_Averno_513
+02-672_Persiano_212
+02-674_Sesto_182
+02-674_Abido_183
+02-675_Ellesponto_510
+02-677_Athos_457
+02-700_Italia_189
+02-704_città (Brindisi)_32
+02-709_onda eubea (stretto Euripo)_509
+02-710_Calcide (Brindisi)_32
+02-715_Pagase_35
+02-733_Libia_191
+02-734_Esperia_189
+02-735_terra romana_2
+03-003_Ionio_485
+03-004_Esperia_189
+03-005_porti (Brindisi)_32
+03-007_vette (Appennini)_436
+03-007_monti (Appennini)_436
+03-048_Esperia_189
+03-059_Siciliane_460
+03-064_Sardegna_463
+03-067_Esperia_189
+03-067_Roma_2
+03-068_Libia_191
+03-071_dimore (Roma)_2
+03-073_città (Roma)_2
+03-074_Gallia_192
+03-077_Reno_371
+03-077_Oceano_489
+03-077_Gallia_192
+03-078_Britanni_281
+03-084_Anxur_535
+03-085_paludi Pontine_531
+03-086_scitica_188
+03-087_Alba_9
+03-090_Roma_2
+03-094_Lazio_193
+03-094_Sarmata_263
+03-095_Pannonio_220
+03-095_Daci_272
+03-095_Geta_273
+03-096_Roma_2
+03-099_Roma_2
+03-129_città (Roma)_2
+03-154_Rupe Tarpea_500
+03-155_popolo romano_2
+03-159_Roma_2
+03-162_Asia_205
+03-163_Creta_464
+03-164_Cipro_465
+03-168_Roma_2
+03-171_Grecia_200
+03-172_Anfissa (Salona)_36
+03-172_Cirra_7
+03-172_Parnaso_439
+03-173_focesi (Focea)_37
+03-174_Beozia_206
+03-174_Cefisio_380
+03-175_Dirce_381
+03-176_Pisa (Elide)_21
+03-176_Alfeo_382
+03-176_mare (Ionio)_485
+03-176_sicani_286
+03-177_Arcade_207
+03-178_Menelao_440
+03-178_trachinio (Trachis)_38
+03-178_Oeta_441
+03-179_Tesproti_287
+03-179_Driopi_288
+03-179_Selloi_289
+03-180_caonie (Caonia)_208
+03-181_Atene_39_39
+03-183_Salamina_484
+03-184_Creta_464
+03-185_Cnosso_40
+03-186_Gortina_41
+03-187_Orico_42
+03-187_Atamane_290
+03-188_Encheli_291
+03-190_Colchide_209
+03-191_Peneo_383
+03-192_tessalo_187
+03-192_Iolco_43
+03-198_Emo_434
+03-198_Foloe_539
+03-199_Strimone_384
+03-200_Nilo_346
+03-200_Bistonia_210
+03-201_Istro_361
+03-201_sarmatiche (Mar Nero)_491
+03-202_Peuce_466
+03-203_Misia_237
+03-203_Idalia (monte Ida)_442
+03-204_Caico_385
+03-204_Arisbe_44
+03-205_Pitane_45
+03-205_Celene_46
+03-208_Marsia_275
+03-209_Meandro_387
+03-209_Pattolo_388
+03-210_Ermo_389
+03-211_Ilio_175
+03-213_Troia_175
+03-213_frigio_190
+03-214_Siria_211
+03-214_Oronte_390
+03-215_Ninive_47
+03-215_Damasco_48
+03-216_Gaza_49
+03-216_Idume (Gaza)_49
+03-217_Tiro_50
+03-217_Sidone_50
+03-220_Fenici_292
+03-222_Menfi_17
+03-225_Tauri_437
+03-225_Tarso_52
+03-226_coricio_53
+03-227_Mallo_54
+03-227_Ege_55
+03-228_Cilici_195
+03-230_Gange_376
+03-233_Pella_56
+03-235_Indo_391
+03-238_Idaspe_392
+03-244_Cappadoci_221
+03-244_Amano_443
+03-245_Armeni_203
+03-245_Nifate_444
+03-246_Coatri (Tauri)_437
+03-247_Arabi_282
+03-249_Oresti_293
+03-250_Carmani_294
+03-253_Etiopi_295
+03-256_Tigri_393
+03-257_Eufrate_379
+03-258_Persia_212
+03-259_Eufrate_379
+03-261_acque Farie (Nilo)_346
+03-261_Tigri_393
+03-265_Parti_244
+03-267_Scizia_188
+03-267_Battro_394
+03-268_Ircania_195
+03-269_Eniochi_283
+03-270_Sarmati_263
+03-270_Moschi_296
+03-271_Fasi_377
+03-271_Colchi_209
+03-272_Alis_395
+03-273_Tanai_396
+03-277_mare (Mar Nero)_491
+03-277_stretto tempestoso (Bosforo)_511
+03-278_palude Meotide_493
+03-278_colonne d'Ercole_507
+03-279_Cadice_57
+03-280_Oceano_489
+03-280_Essedonie_297
+03-380_Arimaspi_298
+03-281_Arii_299
+03-282_Massageti_270
+03-283_Geloni_300
+03-285_Persiano_212
+03-293_Marmarica (Marmaridi)_314
+03-294_Libia_191
+03-294_Mauri_243
+03-295_Sirti_487
+03-297_Farsalo_3
+03-298_Roma_2
+03-299_Alpi_425
+03-301_focacica (Focea)_37
+03-302_greca_200
+03-307_latini_193
+03-308_Marsiglia_58
+03-330_città (Marsiglia)_58
+03-335_città invincibile (Roma)_2
+03-336_iberico_213
+03-340_Focide (Focea)_37
+03-350_Sagunto_59
+03-350_cartaginese_66
+03-355_Greci_200
+03-338_Greci_200
+03-360_Marsiglia_58
+03-373_città (Marsiglia)_58
+03-379_città (Marsiglia)_58
+03-383_città (Marsiglia)_58
+03-389_città greca (Marsiglia)_58
+03-446_Galli_192
+03-454_Spagna_213
+03-462_città (Marsiglia)_58
+03-464_greco_200
+03-464_romani_2
+03-479_Greci_200
+03-497_Greci_200
+03-502_romane_2
+03-515_Rodano_351
+03-516_Stecadi_467
+03-516_Greci_200
+03-527_greche_200
+03-529_romana_2
+03-553_Greci_200
+03-556_romane_2
+03-561_focesi (Focea)_37
+03-583_romana_2
+03-584_focesi (Focea)_37
+03-586_greco_200
+03-597_latina_193
+03-610_greca_200
+03-611_romana_2
+03-668_greca_200
+03-697_focese (Focea)_37
+03-710_Baleari_468
+03-727_focese (Focea)_37
+03-753_greca_200
+03-756_città (Marsiglia)_58
+03-759_romano_2
+04-008_latine_193
+04-008_Asturi_301
+04-009_Vettoni_302
+04-009_Celti (Celtiberi)_303
+04-010_Galli_192
+04-010_Iberi_213
+04-012_Ilerda_185
+04-014_Sicori_397
+04-014_esperii_213
+04-020_Cinga_355
+04-022_Oceano_489
+04-023_Ibero_213
+04-033_Ilerda_185
+04-062_nabatei_304
+04-064_Arabo_282
+04-065_Gange_376
+04-067_Indiani_305
+04-072_Olimpo_429
+04-081_Oceano_489
+04-083_Pirenei_435
+04-103_Oceano_489
+04-116_Reno_371
+04-117_Rodano_351
+04-130_Sicori_397
+04-134_Veneti_306
+04-134_Po_369
+04-134_Britanni_281
+04-135_Oceano_489
+04-135_Nilo_346
+04-136_Menfi_17
+04-139_Sicori_397
+04-145_Ilerda_185
+04-179_romano_2
+04-256_Emazia_187
+04-256_Marsiglia_58
+04-257_Faro (Alessandria)_34
+04-262_Ilerda_185
+04-298_asturiano_301
+04-323_romani_2
+04-333_Meroe_61
+04-334_Garamanti_307
+04-335_Sicori_397
+04-335_Ebro_398
+04-352_esperii_189
+04-404_Adriatico_490
+04-404_Salona_36
+04-405_Iader_62
+04-406_Curicti_308
+04-407_Adriatico_490
+04-433_illiriche_214
+04-441_spartani_63
+04-441_cretesi_464
+04-448_cilicio_195
+04-452_illiriche_214
+04-463_Opitergini_176
+04-529_Istriani_309
+04-530_Liburni_310
+04-530_greca_200
+04-551_tebani_14
+04-582_libici_191
+04-584_Lilibeo_64
+04-586_Clipea_65
+04-586_Cartagine_66
+05-588_Bagrada_399
+04-594_libici_191
+04-597_Flegra_540
+04-606_Libia_191
+04-614_olimpica_429
+04-635_incachie_400
+04-640_Olimpo_429
+04-657_punico_66
+04-657_latine_193
+04-659_Libia_191
+04-660_romana_2
+04-666_Africa_215
+04-668_latino_193
+04-669_Libia_191
+04-672_Atlante_430
+04-673_Cadice_57
+04-673_Sirti_487
+04-677_Autololi_311
+04-677_Numidi_199
+04-677_Getuli_312
+04-678_Mauri_243
+04-679_Indi_305
+04-679_Nasamoni_313
+04-679_Marmaridi_314
+04-680_Garamanti_307
+04-680_Mazaci_315
+04-681_Medi_269
+04-681_Massili_316
+04-684_Afri_317
+04-691_Libia_191
+04-692_Roma_2
+04-696_Corfinio_30
+04-697_Reno_371
+04-720_Numidi_199
+04-736_Libia_191
+04-738_Puni_66
+04-746_Numidi_199
+04-765_africani_215
+04-784_Mauri_243
+04-789_Cartagine_66
+04-790_punici_66
+04-791_romano_2
+04-792_Libia_191
+04-793_Africa_215
+04-802_Farsalo_3
+04-807_Roma_2
+04-810_Libia_191
+04-814_Roma_2
+04-816_Urbe (Roma)_2
+04-820_Galli_192
+04-824_Urbe (Roma)_2
+05-003_Macedoni_285
+05-004_Emo_434
+05-004_Olimpo_429
+05-008_Epiro_204
+05-010_romani_2
+05-018_latina_193
+05-019_città (Roma)_2
+05-027_Rupe Tarpea_500
+05-028_Galli_192
+05-028_Veio_67
+05-028_Roma_2
+05-033_Urbe (Roma)_2
+05-038_Esperia_189
+05-039_illirici_214
+05-040_Libia_191
+05-050_Rodi_469
+05-052_Taigeto_445
+05-052_Atene_39
+05-053_Focide (Focea)_37
+05-053_Marsiglia_58
+05-057_Libia_191
+05-060_Pella_56
+05-069_delfico_68
+05-072_Parnaso_439
+05-099_sicula vetta (Etna)_424
+05-100_Etna_424
+05-100_campani_216
+05-101_Inarime_458
+05-108_Tirii_50
+05-109_Salamina_484
+05-113_delfica_68 
+05-114_cirree_7
+05-121_Esperia_189
+05-130_romano_2
+05-131_Parnaso_439
+05-134_Delfi_68
+05-137_Cirra_7
+05-144_focese (Focea)_37
+05-165_cirreo_7
+05-182_Oceano_489
+05-183_euboico_470
+05-183_Cumana (Cuma)_15
+05-186_romani_2
+05-194_romano_2
+05-196_Eubea_470
+05-203_Esperia_189
+05-227_Calcide_160
+05-227_eubea_470
+05-230_euboica_470
+05-232_Caristo_69
+05-233_Ramnunte_545
+05-235_(stretto) Euripo_509
+05-236_calcidiche (Calcide)_160
+05-237_Iberia_213
+05-264_Gallia_192
+05-265_Spagna_213
+05-266_Esperia_189
+05-268_Rodano_351
+05-268_Reno_371
+05-270_case (Roma)_2
+05-274_Roma_2
+05-289_Reno_371
+05-306_dimora tarpeia (rupe)_500
+05-328_Esperia_189
+05-334_romana_2
+05-344_Iberia_213
+05-374_Brindisi_32
+05-375_Idro_70
+05-376_Taranto_71
+05-376_Leucade_6
+05-377_Salpi_72
+05-377_Siponto_73
+05-378_Apulia_202
+05-378_Gargano_452
+05-379_Ausonia_189
+05-379_Adriatico_490
+05-380_dalmatico_217
+05-380_calabro_218
+05-381_Roma_2
+05-389_ausonie (Italia)_189
+05-392_Farsalo_3
+05-393_Campo Marzio_499
+05-400_Lazio_193
+05-400_iliaca_175
+05-400_Alba_9
+05-402_latine_193
+05-405_Apuli_202
+05-406_minoica_464
+05-406_Brindisi_32
+05-420_Grecia_200
+05-421_Feaci (Corcira)_461
+05-436_Bosforo_51
+05-437_onde scitiche_491
+05-437_Istro_361
+05-440_Besso_318
+05-441_Meotide_493
+05-457_Acrocerauni (promontorio)_522
+05-460_Paleste_74
+05-463_Genuso_401
+05-463_Apso_402
+05-463_Apso_402
+05-466_Genuso_401
+05-475_Nilo_346
+05-478_Leucade_459
+05-485_Libia_191
+05-485_Sirti_487
+05-496_Epiro_204
+05-497_ausonia_189
+05-534_Esperia_189
+05-573_Esperia_189
+05-579_Italia_189
+05-591_porto calabro (Brindisi)_32
+05-598_Oceano Atlantico_489
+05-603_scitico_188
+05-612_Oceano_489
+05-613_Tirreno_494
+05-614_onde egee_486
+05-614_Adriatico_490
+05-614_Ionio_485
+05-620_Olimpo_429
+05-638_Leucade_459
+05-650_Sasona_462
+05-651_Tessaglia_187
+05-652_Ambracia_179
+05-657_Acrocerauni (promontorio)_522
+05-662_Roma_2
+05-664_romana_2
+05-691_Esperia_189
+05-703_Esperia_189
+05-712_Strimone_384
+05-712_Nilo_346
+05-719_Lisso_75
+05-720_Ninfeo_158
+05-724_Lesbo_471
+05-730_Roma_2
+05-743_Lesbo_471
+05-786_Mitilene_76
+05-803_Esperia_189
+06-004_greche_200
+06-010_Lazio_193
+06-014_Durazzo_33
+06-016_Taulanti_319
+06-017_efiree (Corinto)_186
+06-018_città (Durazzo)_33
+06-027_Ionio_485
+06-035_Greci_200
+06-049_Ilio_175
+06-049_Parti_244
+06-050_Babilonia_1
+06-052_Tigri_393
+06-053_Oronte_390
+06-054_Assiri_241
+06-055_Sesto_182
+06-056_Abido_183
+06-056_mare di Frisso (Ellesponto)_510
+06-057_Efira_77
+06-058_Malea (capo)_518
+06-062_Tessaglia_187
+06-062_Libia_191
+06-065_Sicilia_460
+06-066_(capo) Peloro_517
+06-067_Britanni_281
+06-067_Caledonia_219
+06-074_Roma_2
+06-075_Ariccia_78
+06-075_micenea_13
+06-076_Tevere_349
+06-077_città (Roma)_2
+06-090_Nisida_472
+06-129_latine_193
+06-146_Rodano_351
+06-147_latina_193
+06-208_libico_191
+06-220_Pannonia_220
+06-221_libico_191
+06-258_Ibero_213
+06-259_Cantabro_320
+06-259_Teutone_247
+06-272_Po_369
+06-279_Po_369
+06-287_Circeo (promontorio)_524
+06-293_Enna_79
+06-294_Etna_424
+06-301_Roma_2
+06-306_Libia_191
+06-306_Utica_80
+06-306_Spagna_213
+06-307_Munda_181
+06-307_Nilo_346
+06-308_Faro (Alessandria)_34
+06-309_marmariche (Marmaridi)_314
+06-310_cartaginesi_66
+06-312_Roma_2
+06-313_Farsalo_3
+06-315_Emazia_187
+06-318_patria (Roma)_2
+06-318_Ausonia_189
+06-319_patria (Roma)_2
+06-320_Roma_2
+06-322_Esperia_189
+06-324_Foro_502
+06-325_scitico_188
+06-326_Roma_2
+06-331_Candavia_541
+06-332_Emazia_187
+06-333_Tessaglia_187
+06-334_Ossa_426
+06-336_Pelio_446
+06-337_Otri_447
+06-339_Pindo_432
+06-339_iapigio_547
+06-341_Olimpo_429
+06-345_Tempe (valle)_533
+06-347_Ossa_426
+06-348_Olimpo_429
+06-350_emazia_187
+06-350_Farsalo_3
+06-351_Filace_81
+06-352_Pteleo_82
+06-352_Dorione_83
+06-353_Trachine (Trachis)_38
+06-353_Melibea_84
+06-355_Larissa_85
+06-355_Argo_86
+06-357_Tebe_87
+06-361_Ionio_485
+06-362_Aea_420
+06-363_padre (Inaco)_400
+06-363_quello (Acheloo)_421
+06-364_Echinadi_473
+06-365_Eveno_422
+06-366_Calidone_88
+06-366_Spercheo_403
+06-367_maliche_530
+06-368_Anfrisio_404
+06-369_Anauro_405
+06-372_Peneo_383
+06-373_Apidano_406
+06-374_Enipeo_407
+06-374_Asopo_408
+06-374_Fenice_409
+06-374_Melanto_410
+06-375_Titareso_411
+06-375_altro fiume (Peneo)_383
+06-377_Peneo_383
+06-382_Bebrici_321
+06-383_Lelegi_322
+06-384_eolidi_323
+06-384_dolopi_324
+06-385_Magneti_325
+06-385_Minii (Argo)_86
+06-388_Foloe_539
+06-389_Eta_441
+06-394_emonio_434
+06-397_tessalico_187
+06-400_Pagaseo (Pagase)_35
+06-402_terra tessalica_187
+06-408_cirrei_7
+06-409_tessalici_187
+06-411_Pelio_446
+06-411_Ossa_426
+06-413_terra (Tessaglia)_187
+06-421_acque di Scilla_508
+06-422_Sicilia_460
+06-425_Delo_474
+06-427_Dodona_89
+06-430_Assiro_241
+06-436_Emonidi_434
+06-438_terra tessala_187
+06-441_terre Emonie_434
+06-442_Colchide_209
+06-449_persiana_212
+06-449_Babilonia_1
+06-449_Menfi_17
+06-451_tessalica_187
+06-452_tessale_187
+06-466_tessale_187
+06-474_Nilo_346
+06-475_Meandro_387
+06-475_Arari_356
+06-476_Rodano_351
+06-477_Olimpo_429
+06-479_Scizia_188
+06-479_Emonio_434
+06-484_Olimpo_429
+06-486_Emonie_434
+06-495_tessale_187
+06-519_tessala_187
+06-576_Emo_434
+06-576_Farsalo_3
+06-580_Emazia_187
+06-581_Filippi_18
+06-585_esperia_189
+06-590_Emonidi_434
+06-594_romana_2
+06-604_tessala_187
+06-614_tessale_187
+06-618_Rodope_448
+06-620_Emazia_187
+06-628_tessala_187
+06-649_Tenaro_520
+06-651_tessala_187
+06-677_Arabi_282
+06-678_Mar Rosso_495
+06-679_libico_191
+06-693_Emonio_434
+06-698_tessala_187
+06-738_Ennea (Enna)_79
+06-763_tessala_187
+06-764_Emonii_434
+06-780_Roma_2
+06-789_Libia_191
+06-790_Cartagine_66
+06-809_Roma_2
+06-811_Nilo_346
+06-811_Tevere_349
+06-814_siculi_460
+06-817_Libia_191
+06-820_Emazia_187
+07-001_Oceano_489
+07-006_Tessaglia_187
+07-009_Teatro di Pompeo_504
+07-010_romana_2
+07-015_Ebro_398
+07-017_romano_2
+07-023_patria (Roma)_2
+07-024_Roma_2
+07-030_patria (Roma)_2
+07-033_città (Roma)_2
+07-033_ausonia_189
+07-044_teatro (di Pompeo)_504
+07-061_Farsalo_3
+07-062_romana_2
+07-091_Roma_2
+07-110_Roma_2
+07-116_romano_2
+07-116_Enipeo_407
+07-133_Roma_2
+07-138_Roma_2
+07-146_sicule_460
+07-153_tessalici_187
+07-164_Roma_2
+07-164_Tessaglia_187
+07-166_Emazia_187
+07-173_Pindo_432
+07-174_Olimpo_429
+07-174_Emo_434
+07-175_Farsalo_3
+07-176_palude Bebeide_516
+07-177_Ossa_426
+07-187_romano_2
+07-188_tiria_50
+07-188_Cadice_57
+07-188_armeno_203
+07-188_Arasse_345
+07-191_Emazia_187
+07-193_colle euganeo_449
+07-193_Apono_184
+07-194_Timavo_412
+07-201_tessalico_187
+07-204_Farsalo_3
+07-222_Cilici_195
+07-223_Libia_191
+07-224_Enipeo_407
+07-225_Cappadocia_221
+07-226_pontici_196
+07-228_latino_193
+07-229_Libia_191
+07-229_Numidi_199
+07-229_Creta_464
+07-229_Cidoni_177
+07-230_ituree_326
+07-231_Galli_192
+07-232_Iberi_213
+07-255_Rubicone_347
+07-256_patria (Roma)_2
+07-261_patria (Roma)_2
+07-271_Greci_200
+07-276_Roma_2
+07-280_Roma_2
+07-281_Armeni_203
+07-282_romana_2
+07-283_Esperia_189
+07-284_romani_2
+07-286_Gallia_192
+07-302_Tessaglia_187
+07-306_Campo Marzio_499
+07-312_Roma_2
+07-335_città (Roma)_2
+07-346_patria (Roma)_2
+07-351_romane_2
+07-354_Roma_2
+07-370_Roma_2
+07-373_Roma_2
+07-384_romano_2
+07-391_latino_193
+07-393_Gabii_90
+07-393_Veio_67
+07-393_Cora_91
+07-394_Albani (Alba)_9
+07-394_laurentini_92
+07-402_città (Roma)_2
+07-403_Esperia_189
+07-404_Roma_2
+07-407_Farsalo_3
+07-409_Canne_19
+07-409_Allia_413
+07-419_Roma_2
+07-425_romani_2
+07-426_Emazia_187
+07-427_India_391
+07-427_latini_193
+07-428_Dahi_280
+07-430_sarmatico_263
+07-431_Parti_244
+07-433_Tigri_393
+07-434_Reno_371
+07-435_Germani_327
+07-435_Sciti_188
+07-436_Ausonia_189
+07-437_Roma_2
+07-439_tessalico_187
+07-442_Arabi_282
+07-442_Medi_269
+07-448_tessaliche_187
+07-449_Foloe_539
+07-449_Oeta_441
+07-450_Rodope_448
+07-450_Mimante_450
+07-452_Argo_86
+07-453_Tessaglia_187
+07-458_Roma_2
+07-473_romano_2
+07-474_Tessaglia_187
+07-478_Olimpo_429
+07-480_Emo_434
+07-481_Pelio_446
+07-482_Pindo_432
+07-482_Pangeo_433
+07-473_Oeta_441
+07-491_romane_2
+07-511_romano_2
+07-519_romani_2
+07-535_Farsalo_3
+07-539_romano_2
+07-540_Galati_328
+07-540_Siri_211
+07-541_Cappadoci_221
+07-541_Galli_192
+07-541_Iberi_213
+07-542_Armeni_203
+07-542_Cilici_195
+07-543_popolo romano_2
+07-556_Roma_2
+07-569_Bistoni_210
+07-580_Roma_2
+07-591_Filippi_18
+07-592_Tessaglia_187
+06-632_Farsalo_3
+07-633_Roma_2
+07-635_acheo_223
+07-636_pontico_196
+07-636_assirio_241
+07-636_romano_2
+07-645_Farsalo_3
+07-648_Roma_2
+07-651_tessalici_187
+07-656_latini_193
+07-660_Roma_2
+07-681_romane_2
+07-681_Emazia_187
+07-692_Africa_215
+07-692_Munda_181
+07-693_fiume fario (Nilo)_346
+07-693_tessalica_187
+07-702_Roma_2
+07-704_Faro (Alessandria)_34
+07-711_Egitto_198
+07-711_Libia_191
+07-712_Larissa_85
+07-722_patria (Roma)_2
+07-729_esperio_189
+07-742_Esperii_189
+07-745_Farsalo_3
+07-756_Iberi_213
+07-756_Tago_414
+07-756_Arimaspe_298
+07-758_Rupe Tarpea_500
+07-759_Roma_2
+07-765_tessalica_187
+07-781_Farsalo_3
+07-787_Farsalo_3
+07-795_Emazia_187
+07-799_Emazia_187
+07-799_cartaginese_66
+07-800_Canne_19
+07-800_libici_191
+07-806_Pindo_432
+07-806_Oeta_441
+07-807_tessalico_187
+07-824_Farsalo_3
+07-825_bistoni_210
+07-826_Emonia_434
+07-827_Foloe_539
+07-832_Tracia_197
+07-832_Nilo_346
+07-844_latina_193
+07-846_Emazia_187
+07-848_Tessaglia_187
+07-853_Roma_2
+07-858_Emonii_434
+07-861_emazio_187
+07-862_romano_2
+07-869_terra (Tessaglia)_187
+07-871_Esperia_189
+07-871_Pachino_519
+07-872_Modena_5
+07-872_Leucade_459
+07-872_Filippi_18
+08-001_valle (Tempe)_533
+08-001_Tempe (valle)_533
+08-002_Emonia_434
+08-015_Farsalo_3
+08-026_Corico_53
+08-027_Ponto_196
+08-033_Peneo_383
+08-034_Emazia_187
+08-038_Corcira_461
+08-038_Leucade_459
+08-038_Cilici_195
+08-039_Liburni_310
+08-040_Lesbo_471
+08-042_Emazia_187
+08-044_Tessaglia_187
+08-091_Assiria_241
+08-108_Tessaglia_187
+08-108_Lesbo_471
+08-109_Mitilene_76
+08-118_isola (Lesbo)_471
+08-123_Lesbo_471
+08-125_città (Mitilene)_76
+08-131_Lesbo_471
+08-133_Roma_2
+08-134_Lesbo_471
+08-139_Lesbo_471
+08-144_lesbio (Lesbo)_471
+08-163_Roma_2
+08-170_Siria_211
+08-171_Libia_191
+08-171_Olimpo_429
+08-179_Bosforo_511
+08-179_Ponto_196
+08-180_Scizia_188
+08-181_Siria_211
+08-183_Faro (Alessandria)_34
+08-184_Sirti_487
+08-189_Emazia_187
+08-189_Esperia_189
+08-195_Chio_475
+08-203_Emazia_187
+08-204_Lesbo_471
+08-211_Emazia_187
+08-212_romani_2
+08-214_Eufrate_379
+08-214_Tigri_393
+08-216_Medi_269
+08-216_Sciti_188
+08-219_Latino_193
+08-221_Armeni_203
+08-221_getiche (scitiche)_188
+08-222_Parti_244
+08-222_Caspio_496
+08-223_Alani_329
+08-225_Babilonia_1
+08-226_caldeo_1
+08-227_Gange_376
+08-227_Idaspe_392
+08-228_Persiani_212
+08-232_Parto_244
+08-234_Assiria_241
+08-235_Lazio_193
+08-236_Parti_244
+08-237_pellea (Pella)_56
+08-237_Zeugma_93
+08-237_Parti_244
+08-238_Roma_2
+08-244_Icaria_476
+08-245_Efeso_94
+08-245_Colofone_95
+08-246_Samo_477
+08-246_Cos_478
+08-247_Cnido (promontorio)_525
+08-248_Rodi_469
+08-249_Telmesso_96
+08-250_Panfilia_222
+08-252_Faseli_97
+08-255_Tauro_437
+08-255_Tauro_437
+08-258_Cilicia_195
+08-260_Siedra_98
+08-261_Selino_99
+08-263_patria (Roma)_2
+08-264_Cilici_195
+08-267_Emazia_187
+08-269_Libia_191
+08-272_Grecia_200
+08-273_Farsalo_3
+08-277_Libia_191
+08-277_Parti_244
+08-277_Faro (Alessandria)_34
+08-288_Roma_2
+08-281_Nilo_346
+08-283_Mauro_243
+08-284_Cartagine_66
+08-285_Esperia_189
+08-287_numidi_199
+08-288_romana_2
+08-290_Eufrate_379
+08-291_Caspio_496
+08-292_Assiria_241
+08-294_Oceano (Indiano)_497
+08-299_Macedoni_285
+08-299_Battra_100
+08-299_Medi_269
+08-299_Babilonia_1
+08-300_Assiri_241
+08-300_Parti_244
+08-302_scitiche_188
+08-308_Medi_269
+08-319_Meotide_493
+08-319_Tanai_396
+08-322_Roma_2
+08-324_Parti_244
+08-326_Medi_269
+08-331_tessalica_187
+08-333_Emazia_187
+08-335_Parti_244
+08-338_caldei_1
+08-339_Parti_244
+08-341_Parti_244
+08-342_Roma_2
+08-343_ircane (Ircania)_195
+08-343_India_391
+08-345_latino_193
+08-346_Roma_2
+08-348_latina_193
+08-350_Partia_244
+08-351_Esperia_189
+08-351_Roma_2
+08-352_sciti_188
+08-354_Parti_244
+08-354_Roma_2
+08-357_Roma_2
+08-358_Eufrate_379
+08-359_Emazia_187
+08-368_Parto_244
+08-369_Media_269
+08-369_sarmatiche_263
+08-370_Tigri_393
+08-378_Parto_244
+08-387_Medi_269
+08-392_patria (Roma)_2
+08-406_Tebe_14
+08-408_Parti_244
+08-415_Parti_244
+08-416_assiri_241
+08-423_Battra_100
+08-424_Daci_272
+08-425_Reno_371
+08-425_Susa_20
+08-426_Babilonia_1
+08-427_Assiria_241
+08-428_Tessaglia_187
+08-429_Parti_244
+08-431_Arasse_345
+08-437_Eufrate_379
+08-438_Tigri_393
+08-440_Tessaglia_187
+08-442_romano_2
+08-443_Faro (Alessandria)_34
+08-443_Lago_536
+08-444_Egitto_198
+08-444_libiche_191
+08-444_Sirti_487
+08-445_rapido fiume (Nilo)_346
+08-447_Nilo_346
+08-456_Cilici_195
+08-457_Cipro_465
+08-458_Pafo_102
+08-461_Cipro_465
+08-463_monte (Alessandria)_34
+08-465_Egitto_198
+08-466_Nilo_346
+08-466_Pelusio_103
+08-470_Casio (promontorio)_526
+08-475_pelleo (Pella)_56
+08-477_Menfi_17
+08-477_città (Menfi)_17
+08-478_Nilo_346
+08-500_Nilo_346
+08-500_Faro (Alessandria)_34
+08-501_Egitto_198
+08-501_latine_193
+08-507_Tessaglia_187
+08-510_tessalico_187
+08-514_Faro (Alessandria)_34
+08-516_Farsalo_3
+08-526_Nilo_346
+08-529_Roma_2
+08-530_Tessaglia_187
+08-531_Emazia_187
+08-541_Casio (promontorio)_526
+08-542_Sirti_487
+08-543_Nilo_346
+08-543_Menfi_17
+08-543_pelusia (Pelusio)_103
+08-544_Canopo_104
+08-545_romana_2
+08-546_Egitto_198
+08-547_Faro (Alessandria)_34
+08-555_romano_2
+08-556_Faro (Alessandria)_34
+08-558_Nilo_346
+08-564_Faro (Alessandria)_34
+08-574_Faro (Alessandria)_34
+08-585_tessaliche_187
+08-588_Lesbo_471
+08-596_romano_2
+08-596_fario (Alessandria)_34
+08-602_Tessaglia_187
+08-606_romana_2
+08-607_pelleo (Pella)_56
+08-611_faria (Alessandria)_34
+08-623_romani_2
+08-624_Faro (Alessandria)_34
+08-640_Lesbo_471
+08-641_Nilo_346
+08-675_fario (Alessandria)_34
+08-677_romano_2
+08-685_Campo Marzio_499
+08-686_romana_2
+08-692_Lago_536
+08-694_Macedone_285
+08-712_Faro (Alessandria)_34
+08-717_Cipro_465
+08-731_romani_2
+08-734_Fori_502
+08-760_esperio_189
+08-767_romana_2
+08-768_Esperia_189
+08-798_Oceano_489
+08-798_romano_2
+08-800_Oeta_441
+08-801_Egitto_198
+08-802_Lago_536
+08-805_Nilo_346
+08-808_Alpi_425
+08-811_Cilici_195
+08-822_romano_2
+08-823_Egitto_198
+08-824_cumana (Cuma)_15
+08-825_esperio_189
+08-825_pelusiache (Pelusio)_103
+08-825_Nilo_346
+08-828_Nilo_346
+08-830_Etiopia_295
+08-831_romani_2
+08-824_Egitto_198
+08-836_Roma_2
+08-842_Roma_2
+08-844_Italia_189
+08-846_Roma_2
+08-851_Nilo_346
+08-851_Siene_31
+08-852_Tebe_105
+08-854_Mar Rosso_495
+08-855_Arabi_282
+08-858_Casio (promontorio)_526
+08-862_libici_191
+08-864_etrusca_248
+08-871_Egitto_198
+08-872_Creta_464
+09-001_Faro (Alessandria)_34
+09-115_Emazia_187
+09-022_patria (Roma)_2
+09-023_tessalica_187
+09-025_popolo (romano)_2
+09-032_Corcira_461
+09-033_Emazia_187
+09-036_Malea (capo)_518
+09-036_Doride_239
+09-036_Tenaro_520
+09-037_Citera_479
+09-037_Creta_464
+09-039_Ficunte_527
+09-042_Palinuro (capo)_521
+09-042_ausonio_189
+09-043_Libia_191
+09-044_frigio_190
+09-063_egiziana_198
+09-080_Campidoglio_501
+09-081_Nilo_346
+09-116_Cipro_465
+09-119_Libia_191
+09-125_romana_2
+09-130_Nilo_346
+09-134_fario (Alessandria)_34
+09-135_Nilo_346
+09-141_farie (Alessandria)_34
+09-152_palude Mareotide_548
+09-152_rocca (Alessandria)_34
+09-152_pellea (Pella)_56
+09-156_Nilo_346
+09-163_Nilo_346
+09-164_Egitto_198
+09-181_Tessaglia_187
+09-182_Apulo_202
+09-184_Gargano_452
+09-185_Vulture_451
+09-185_Matino_180
+09-209_fario (Alessandria)_34
+09-217_romani_2
+09-222_cilicio_195
+09-231_patrii (Roma)_2
+09-232_Farsalo_3
+09-237_Armeni_203
+09-237_Sciti_188
+09-245_Emazia_187
+09-250_patria (Roma)_2
+09-251_romano_2
+09-253_romana_2
+09-258_romana_2
+09-265_patria (Roma)_2
+09-267_Nilo_346
+09-268_Parti_244
+09-272_Filippi_18
+09-272_Emazia_187
+09-288_frigio_190
+09-291_iblei_106
+09-297_Cirene_107
+09-300_libico_191
+09-301_Mauri_243
+09-302_Sirti_487
+09-304_Sirti_487
+09-312_Sirti_487
+09-317_Sirti_487
+09-322_Sirti_487
+09-347_palude (Lago Tritonide)_515
+09-351_Libia_191
+09-353_stagno (Lago Tritonide)_515
+09-355_Leton_415
+09-367_Argo_86
+09-369_Sirti_487
+09-269_Garamanti_307
+09-371_Libia_191
+09-373_Sirti_487
+09-377_Libia_191
+09-386_patria (Roma)_2
+09-386_Libia_191
+09-391_romano_2
+09-405_Libia_191
+09-409_Libia_191
+09-411_Libia_191
+09-413_Nilo_346
+09-414_scitico_188
+09-414_Tanai_396
+09-413_Cadice_57
+09-415_Libia_191
+09-416_Oceano_489
+09-421_Libia_191
+09-427_Mauretania_243
+09-431_Sirti_487
+09-439_Nasamoni_313
+09-440_Sirti_487
+09-444_Nasamoni_313
+09-448_Sirti_487
+09-449_Libia_191
+09-458_Nasamone_313
+09-459_Garamanti_307
+09-463_romano_2
+09-467_Libia_191
+09-495_Libia_191
+09-511_Libia_191
+09-512_Garamanti_307
+09-514_libiche_191
+09-517_Etiopia_295
+09-517_Arabi_282
+09-517_Indi_305
+09-521_romano_2 
+09-523_Libia_191
+09-524_Berenicide_108
+09-524_Leptis (Minor)_109
+09-538_Libia_191
+09-546_latino_193
+09-549_libico_191
+09-553_Sirti_487
+09-559_patria (Roma)_2
+09-598_Sirti_487
+09-599_Libia_191
+09-600_Campidoglio_501
+09-601_patria (Roma)_2
+09-602_Roma_2
+09-617_Libia_191
+09-619_libico_191
+09-624_Libia_191
+09-625_Oceano_489
+09-651_Etiopi_295
+09-655_colonne esperie_507
+09-661_Arcadia_207
+09-662_cillenia_431
+09-666_Libia_191
+09-676_cillenia_431
+09-690_Libia_191
+09-704_Nilo_346
+09-707_libici_191
+09-711_Sirti_487
+09-714_tebano_105
+09-730_Africa_215
+09-738_tirrena (etrusco)_248
+09-751_Tanai_396
+09-751_Rodano_351
+09-751_Po_369
+09-752_Nilo_346
+09-753_Libia_191
+09-756_Sirti_487
+09-787_Cinifo_416
+09-791_Marsica_275
+09-805_Libia_191
+09-815_Nilo_346
+09-820_Sais_110
+09-820_sabea_330
+09-823_Africa_215
+09-827_scitiche_188
+09-849_Tessaglia_187
+09-855_Africa_215
+09-862_Sirti_487
+09-870_patria (Roma)_2
+09-874_Africa_215
+09-874_Cirene_107
+09-879_Roma_2
+09-894_Psilli_331
+09-894_Marmarica (Marmaridi)_314
+09-907_Psilli_331
+09-910_Psillo_331
+09-911_romane_2
+09-918_tessala_187
+09-919_Erice_455
+09-923_Psilli_331
+09-932_Psillo_331
+09-938_romani_2
+09-943_Libia_191
+09-948_Leptis (Minor)_109
+09-950_Emazia_187
+09-953_Tracia_197
+09-957_stretto (Ellesponto)_510
+09-958_stretto (Bosforo)_511
+09-959_Bisanzio_111
+09-959_Calcedonia_112
+09-960_Propontide_498
+09-960_Eusino_492
+09-961_sigee (promontorio Sigeo)_528
+09-962_Simoenta_423
+09-962_promontorio (Reteo)_529
+09-963_greca_200
+09-964_Troia_175
+09-968_Pergamo (Troia)_175
+09-975_frigio_190
+09-983_latine_193
+09-984_Smirne_113
+09-990_frigi_190
+09-991_Lavinio_114
+09-992_Alba_9
+09-994_frigia_190
+09-999_ausonidi_189
+09-1000_Frigi_190
+09-1000_Pergamo (Troia)_175
+09-1000_romana_2
+09-1002_Ilio_175
+09-1003_Asia_205
+09-1003_Rodi_469
+09-1005_egiziana_198
+09-1005_Faro (Alessandria)_34
+09-1012_fario (Alessandria)_34
+09-1014_romana_2
+09-1016_pelleo (Pella)_56
+09-1017_Emazia_187
+09-1019_tessalica_187
+09-1022_Faro (Alessandria)_34
+09-1023_Nilo_346
+09-1045_Emazia_187
+09-1060_romano_2
+09-1068_fario (Alessandria)_34
+09-1073_tessalici_187
+09-1074_pellea (Pella)_56
+09-1075_Roma_2
+09-1079_latine_193
+09-1081_Faro (Alessandria)_34
+09-1083_Tessaglia_187
+09-1086_Roma_2
+09-1096_fario (Alessandria)_34
+09-1104_Roma_2
+10-003_Egitto_198
+10-004_Lago_536
+10-004_romane_2
+10-005_Menfi_17
+10-010_città (Alessandria)_34
+10-010_peretonia (Egitto)_198
+10-012_romane_2
+10-016_Macedoni_285
+10-020_pelleo (Pella)_56
+10-028_Macedoni_285
+10-029_Atene_39
+10-032_Persi_212
+10-032_Eufrate_379
+10-033_Indi_305
+10-033_Gange_376
+10-036_Oceano (Indiano)_497
+10-038_Libia_191
+10-038_Sirtico (Sirti)_487
+10-040_Nilo_346
+10-046_Babilonia_1
+10-046_Parti_244
+10-051_Partia_244
+10-052_Pella_56
+10-053_Pelusio_103
+10-056_pellea (Pella)_56
+10-057_Faro (Alessandria)_34
+10-058_emazia_187
+10-059_Egitto_198
+10-059_Lazio_193
+10-060_Roma_2
+10-061_Spartana (Sparta)_63
+10-061_Argo_86
+10-061_iliache (Ilio)_175
+10-062_Esperia_189
+10-063_Campidoglio_501
+10-064_romane_2
+10-064_Canopo_104
+10-065_farii (Alessandria)_34
+10-066_mare di Leucade (Ionio)_485
+10-067_romana_2
+10-074_tessalica_187
+10-079_Libia_191
+10-080_egiziana_198
+10-081_Faro (Alessandria)_34
+10-087_fario (Alessandria)_34
+10-087_Lago_536
+10-091_Nilo_346
+10-091_Faro (Alessandria)_34
+10-110_romana_2
+10-116_mareotico (palude Mareotide)_548
+10-121_indiana_391
+10-124_Tiro_50
+10-126_faria (Alessandria)_34
+10-139_africana_215
+10-131_Reno_371
+10-139_Mar Rosso_495
+10-141_Sidone_50
+10-142_Seri_240
+10-142_egiziano_198
+10-145_Atlante_430
+10-153_etrusco_248
+10-154_patria (Roma)_2
+10-155_Nilo_346
+10-159_Egitto_198
+10-161_mareotica (palude Mareotide)_548
+10-162_Meroe_61
+10-171_farii (Alessandria)_34
+10-176_farie (Alessandria)_34
+10-182_cecropio (Atene)_39
+10-184_egiziane_198
+10-192_Nilo_346
+10-198_Olimpo_429
+10-209_Cillieno_431
+10-214_Nilo_346
+10-215_Nilo_346
+10-216_Oceano_489
+10-219_Nilo_346
+10-220_Etiopi_295
+10-225_Nilo_346
+10-233_Nilo_346
+10-234_Siene_31
+10-236_Meroe_61
+10-244_Nilo_346
+10-245_fiume (Nilo)_346
+10-251_Meroe_61
+10-252_Po_369
+10-252_Gange_376
+10-253_Nilo_346
+10-255_Nilo_346
+10-256_Oceano_489
+10-258_Oceano_489
+10-261_Nilo_346
+10-268_romano_2
+10-268_Nilo_346
+10-269_Faro (Alessandria)_34
+10-269_Persia_212
+10-269_Macedonia_285
+10-272_Menfi_17
+10-273_Nilo_346
+10-274_Etiopia_295
+10-275_Nilo_346
+10-277_fario (Alessandria)_34
+10-278_Rodano_351
+10-278_Po_369
+10-279_Nilo_346
+10-282_Nilo_346
+10-285_Nilo_346
+10-291_Arabi_282
+10-291_libiche_191
+10-292_Seri_240
+10-293_Etiopi_295
+10-299_Nilo_346
+10-303_Meroe_61
+10-312_File_480
+10-313_egiziane_198
+10-313_Arabi_282
+10-315_Mar Rosso_495
+10-316_Nilo_346
+10-324_Abaton_480
+10-328_Nilo_346
+10-328_Libia_191
+10-330_Menfi_17
+10-343_romano_2
+10-344_fario (Alessandria)_34
+10-355_Faro (Alessandria)_34
+10-358_latino_193
+10-359_Egitto_198
+10-359_Roma_2
+10-376_esperio_189
+10-387_Esperia_189
+10-388_romano_2
+10-394_Lago_536
+10-395_romana_2
+10-403_latina_193
+10-406_fario (Alessandria)_34
+10-412_Farsalo_3
+10-412_romano_2
+10-413_Nilo_346
+10-413_Lago_536
+10-416_romani_2
+10-416_latino_193
+10-419_romano_2
+10-434_Casio (promontorio)_526
+10-435_Egitto_198
+10-448_siculi_460
+10-448_Etna_424
+10-449_Tessaglia_187
+10-449_Emo_434
+10-450_Esperia_189
+10-454_Alano_329
+10-455_Scita_188
+10-455_Mauro_243
+10-456_romano_2
+10-457_India_391
+10-457_tiria_50
+10-457_Cadice_57
+10-465_Colchide_209
+10-474_Egitto_198
+10-475_Tessaglia_187
+10-475_Ponto_196
+10-476_Ibero_213
+10-476_Sirte_488
+10-509_Faro (Alessandria)_34
+10-536_latino_193
