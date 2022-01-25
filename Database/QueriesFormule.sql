@@ -102,9 +102,6 @@ INSERT INTO distanze_pesate (distanza_pesata)
 	
 INSERT INTO variabile (id, valore) VALUES ('raggio_PH', (SELECT SUM(distanza_pesata) FROM distanze_pesate));
 
-
--- questione della Gaussiana??
-
 -- NUOVO SET DI COORDINATE
 -- latitudine' = distanza / raggioT
 -- longitudine' = arctan((cos(latitudine) * sin(longitudine - longitudineC)) / ((cos(latitudine) * sin(latitudineC) * cos(longitudine - longitudineC)) - (sin(latitudine) * cos(latitudineC))))
